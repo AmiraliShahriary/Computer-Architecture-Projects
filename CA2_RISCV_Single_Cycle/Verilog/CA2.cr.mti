@@ -1,0 +1,99 @@
+{D:/UT/term 4/CA/CAs/CA2_810100119_810100173/RiscvSingleCyle.v} {1 {vlog -work work -stats=none {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/RiscvSingleCyle.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RiscvSingleCyle
+
+Top level modules:
+	RiscvSingleCyle
+
+} {} {}} {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/DataPath.v} {1 {vlog -work work -stats=none {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/DataPath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}} {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/InstMemory.v} {1 {vlog -work work -stats=none {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/InstMemory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstMemory
+
+Top level modules:
+	InstMemory
+
+} {} {}} {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Adder.v} {1 {vlog -work work -stats=none {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux3to1.v} {1 {vlog -work work -stats=none {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux3to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux3to1
+
+Top level modules:
+	Mux3to1
+
+} {} {}} {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/TestSingleCycle.v} {1 {vlog -work work -stats=none {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/TestSingleCycle.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TestSingleCycle
+
+Top level modules:
+	TestSingleCycle
+
+} {} {}} {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/ImmExtend.v} {1 {vlog -work work -stats=none {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/ImmExtend.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ImmExtend
+
+Top level modules:
+	ImmExtend
+
+} {} {}} {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Register.v} {1 {vlog -work work -stats=none {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/RegisterFile.v} {1 {vlog -work work -stats=none {D:\UT\term 4\CA\CAs\CA2_810100119_810100173\RegisterFile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux2to1.v} {1 {vlog -work work -stats=none {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux2to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux2to1
+
+Top level modules:
+	Mux2to1
+
+} {} {}} {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/DataMem.v} {1 {vlog -work work -stats=none {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/DataMem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataMem
+
+Top level modules:
+	DataMem
+
+} {} {}} {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/ALU.v} {1 {vlog -work work -stats=none {D:\UT\term 4\CA\CAs\CA2_810100119_810100173\ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux4to1.v} {1 {vlog -work work -stats=none {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Mux4to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux4to1
+
+Top level modules:
+	Mux4to1
+
+} {} {}} {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Controller.v} {1 {vlog -work work -stats=none {D:/UT/term 4/CA/CAs/CA2_810100119_810100173/Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}}
